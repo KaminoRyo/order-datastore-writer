@@ -2,6 +2,7 @@
   "name": "order-datastore-writer",
   "version": "0.0.1",
   "description": "Yahoo!オークションの取引データをDB等に書き込む",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "cli": "vite-node ./index.ts --"
